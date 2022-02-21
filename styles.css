@@ -1,0 +1,16 @@
+h1{
+    color: black;
+    background-color: lightseagreen;
+}
+*{
+    background-color: darkcyan
+}
+h1 {
+    font-size: 39pt;
+}
+input{
+    background-color: wheat;
+}
+button{
+    background-color: wheat;
+}
